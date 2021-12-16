@@ -5,7 +5,7 @@
 
 #### About me
 - ⌨  A Frontend Developer
-- 🛠 Enjoy using Vue and Typescript
+- 🛠 Enjoy using Vue and TypeScript
 - 🖼
 <hr/> 
 
