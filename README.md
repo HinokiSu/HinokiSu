@@ -13,6 +13,6 @@
   <img align="left" width="410"  src="http://github-readme-stats-hinokisu.vercel.app/api?username=HinokiSu&show_icons=true&count_private=true&hide=contribs" />
 </div> 
 <div>
-  <img  align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinokiSu&layout=compact" />
+  <img  align="left" width="300" src="https://github-readme-stats-hinokisu.vercel.app/api/top-langs/?username=HinokiSu&layout=compact" />
 </div>  
 
