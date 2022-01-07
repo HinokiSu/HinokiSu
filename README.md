@@ -5,8 +5,8 @@
 
 #### About me
 - ⌨  A Frontend Developer
-- 🛠 Enjoy using Vue and TypeScript
-- 🖼
+- 🖼 Enjoy using Vue and TypeScript
+- 🔭 Current status: 🛠 Creating a personal blog
 <hr/> 
 
 <div>
