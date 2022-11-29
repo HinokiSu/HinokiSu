@@ -6,7 +6,6 @@
 #### About me
 - ⌨  A rookie front-end developer
 - 🖼 Enjoy using Vue and TypeScript
-- 🔭 Current status: 🛠 Creating a personal blog
 <hr/> 
 
 <div>
